@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: white;
+}
+
+body {
+    background-image: url(../img/back.jpg);
+}
+
+.container {
+    width: 80%; /* عرض المربع */
+    height: 80%; /* ارتفاع المربع */
+    margin: 1% auto; /* هامش المربع */
+    background-color: #ffffff85; /* لون الخلفية */
+    position: relative;
+}
+
+video {
+    width: 100%; /* عرض الفيديو */
+    height: 100%; /* ارتفاع الفيديو */
+}
+
